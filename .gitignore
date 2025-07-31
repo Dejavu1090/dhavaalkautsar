@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+*.map
+dist/
+build/
+
+# Misc
+.DS_Store
